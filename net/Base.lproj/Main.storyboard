@@ -142,7 +142,7 @@
                                 </items>
                             </toolbar>
                             <webView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NyJ-2a-1mp">
-                                <rect key="frame" x="20" y="138" width="335" height="485"/>
+                                <rect key="frame" x="0.0" y="129" width="375" height="491"/>
                                 <animations/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             </webView>
